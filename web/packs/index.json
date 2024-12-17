@@ -1,6 +1,10 @@
 {
   "packs": [
-    "GunterThePenguin.json"
+    "GunterThePenguin.json",
+    "Collegiali8.json",
+    "LINE_Menhera_chan_ENG.json",
+    "PinkPotato.json",
+    "BohSonoIo.json"
   ],
   "homeserver_url": "https://matrix.soliprem.eu"
 }
